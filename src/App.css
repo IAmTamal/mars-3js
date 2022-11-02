@@ -1,4 +1,5 @@
 .main_canvas {
-  background-color: rgba(0, 255, 255, 0.689);
+  /* background-image: url("./assets/space-bg.jpeg"); */
   height: 100vh !important;
+  background-size: cover;
 }
