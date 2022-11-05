@@ -8,7 +8,7 @@ import { Environment, useEnvironment } from '@react-three/drei'
 
 const App = () => {
 
-  const outerspace = useEnvironment({ files: "/assets/nebula.hdr" })
+  const outerspace = useEnvironment({ files: "/src/assets/nebula.hdr" })
 
   return (
     <Canvas className='main_canvas'>
